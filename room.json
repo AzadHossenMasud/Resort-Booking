@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Beach Resort, Cox's Bazar",
+        "imageurls" : [
+            "https://mukul-breach-resort-project.netlify.app/static/media/details-2.dc89255d.jpeg",
+            "https://mukul-breach-resort-project.netlify.app/static/media/details-3.f525a3c8.jpeg",
+            "https://mukul-breach-resort-project.netlify.app/static/media/details-4.f2053654.jpeg"
+        ],
+        "rentperday" : 1500,
+        "type" : "Delux",
+        "maxcount" : 3,
+        "phonenumber" : 202020,
+        "currentbookings" : [],
+        "description" : "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant"
+    },
+    {
+        "name" : "Beach Resort 2, Cox's Bazar",
+        "imageurls" : [
+            "https://mukul-breach-resort-project.netlify.app/static/media/details-2.dc89255d.jpeg",
+            "https://mukul-breach-resort-project.netlify.app/static/media/details-3.f525a3c8.jpeg",
+            "https://mukul-breach-resort-project.netlify.app/static/media/details-4.f2053654.jpeg"
+        ],
+        "rentperday" : 1500,
+        "type" : "Delux",
+        "maxcount" : 3,
+        "phonenumber" : 202020,
+        "currentbookings" : [],
+        "description" : "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant"
+    }
+]
